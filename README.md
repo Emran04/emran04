@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on JavaScript or PHP project
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Web technologies.
-- 📫 How to reach me: emran04ch@gmail.com
+- 📫 How to reach me: emran04ch@gmail.com [Linkedin](https://www.linkedin.com/in/emran-hossen/)
 <!--
 **Emran04/emran04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
